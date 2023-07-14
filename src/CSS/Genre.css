@@ -1,0 +1,11 @@
+
+.genreCard{
+    text-align: center;
+    width: 400px;
+    margin: auto;
+}
+
+h2{
+    margin-top: 50px;
+    border: 2px solid black;
+}
